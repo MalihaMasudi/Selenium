@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ad6a085-8da2-4019-9578-a5f53cbd3e5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumBatch14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="4ad6a085-8da2-4019-9578-a5f53cbd3e5b" name="Changes" comment="selenium">
+      <change afterPath="$PROJECT_DIR$/src/Class04/CssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class04/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class04/Note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class04/RadioButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class05/CheckBoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class05/CheckBoxDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class05/MultipleSelectDropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class06/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class06/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07/WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class08/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class08/Note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class08/WaitDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class08/WaitsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class9/DynamicTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class9/HW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quizes/Note.txtQuiz6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quizes/Quiz06AbstractionAndEncapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass02/PracticeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class04/AdditionalMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class05/DropDownDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,28 +55,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/maliha/Downloads/selenium-java-3.141.59/libs/okio-1.14.0.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maliha/Downloads/selenium-java-3.141.59/libs/okio-1.14.0.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.Syntax.class02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SyntaxSimpleFormHW">
-    <configuration name="FacebookHomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syantax.reviewClass.FacebookHomeWork" />
+  <component name="RunManager" selected="Application.HW">
+    <configuration name="Class08.HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class08.HW1" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syantax.reviewClass.*" />
+          <option name="PATTERN" value="Class08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class9.DynamicTable" />
+      <module name="SeleniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class9.HW" />
+      <module name="SeleniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.class02.HW1" />
+      <option name="MAIN_CLASS_NAME" value="Class07.HW1" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.class02.*" />
+          <option name="PATTERN" value="Class07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,38 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syntax.class02.HW2" />
+    <configuration name="WaitsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class08.WaitsDemo" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Syntax.class02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SyntaxSimpleFormHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReviewClass.SyntaxSimpleFormHW" />
-      <module name="SeleniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReviewClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Syantax.reviewClass.basic" />
-      <module name="SeleniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Syantax.reviewClass.*" />
+          <option name="PATTERN" value="Class08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,10 +138,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SyntaxSimpleFormHW" />
-        <item itemvalue="Application.basic" />
-        <item itemvalue="Application.FacebookHomeWork" />
-        <item itemvalue="Application.HW2" />
+        <item itemvalue="Application.HW" />
+        <item itemvalue="Application.Class08.HW1" />
+        <item itemvalue="Application.DynamicTable" />
+        <item itemvalue="Application.WaitsDemo" />
         <item itemvalue="Application.HW1" />
       </list>
     </recent_temporary>
@@ -134,6 +155,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666114684400</updated>
     </task>
+    <task id="LOCAL-00001" summary="selenium">
+      <created>1667247433417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667247433417</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,5 +175,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="selenium" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium" />
   </component>
 </project>

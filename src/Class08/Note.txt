@@ -1,0 +1,8 @@
+                                            Selenium Class 08
+                                            waits
+  Wait for webelement to be found--> implicit wait
+  implicit wait --> global
+
+  scearnio
+  webElement : <button id= "type"> b
+

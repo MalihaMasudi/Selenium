@@ -1,0 +1,182 @@
+Question 1
+1 / 1 pts
+Which among the following BEST defines abstraction ?
+  Hiding the important data
+  Hiding the implementation
+  Showing the important data
+Correct!
+  Hiding the implementation and showing only the features
+It includes hiding the implementation part and showing only the required data and features to the user. It is done to hide the implementation complexity and details from the user. And to provide a good interface in programming.
+
+Question 2
+1 / 1 pts
+Hiding the implementation complexity can:
+  Make the programming complex
+  provide more number of features
+Correct!
+  Make the programming easy
+It can make the programming easy. The programming need not know how the inbuilt functions) are working but can use those complex functions directly in the program. It doesn’t provide the number of features or better features.
+
+Question 3
+1 / 1 pts
+Class is _________ abstraction
+  Real
+Correct!
+  Logical
+Class is logical abstraction because it provides a logical structure for all of its objects. It gives an overview of the features of an object.)
+  Object
+  Hypothetical
+
+Question 4
+1 / 1 pts
+Object is ________ abstraction
+  Object
+Correct!
+  Real
+The object is real abstraction because it actually contains those features of the class. It is the implementation of the overview given by the class. Hence the class is a logical abstraction and its object is real
+  Logical
+  Hypothetical
+
+Question 5
+1 / 1 pts
+Abstraction principle includes___________
+  Use abstraction at its minimum
+  Use abstraction whenever possible to achieve OOP
+  Use abstraction to avoid longer codes
+Correct!
+  Use abstraction whenever possible to avoid duplication
+Abstraction principle includes use of abstraction to avoid duplication (usually of code). It this way the program doesn’t contain any redundant functions and make the program efficient
+
+
+Question 6
+1 / 1 pts
+What is the output of the following code?
+
+1. interface HasTail {
+
+2. int getTailLength();
+
+3. }
+
+4. abstract class Puma implements HasTail {}
+
+5. class Cougar extends Puma {
+
+6. protected int getTailLength() {
+
+7. return 4;}
+
+8. public int getTailLength(int length) {
+
+9. return 2;}
+
+10.}
+
+  The code will not compile because of line 8
+  The code will not compile because of line 2.
+Correct!
+  The code will not compile because of line 6
+  It compiles without issue
+
+Question 7
+1 / 1 pts
+Choose the correct statement about the following code:
+
+ interface HasExoskeleton {
+
+abstract int getNumberOfSections();
+
+ }
+
+abstract class Insect implements HasExoskeleton {
+
+  abstract int getNumberOfLegs();
+
+ }
+
+ public class Beetle extends Insect {
+
+ int getNumberOfLegs() { return 6; }
+
+}
+
+Correct!
+  The code will not compile because of line 7.
+  It compiles and runs without issue.
+  The code will not compile because of line 2.
+  The code will not compile because of line 4.
+
+Question 8
+1 / 1 pts
+Choose the correct statement about the following code:
+
+public interface CanFly {
+
+void fly();
+
+ }
+
+ interface HasWings {
+
+public abstract Object getWindSpan();
+
+}
+
+ abstract class Falcon implements CanFly, HasWings {
+
+ }
+
+  The code will not compile because of line 5.
+Correct!
+  It compiles without issue.
+  The code will not compile because of line 2.
+  The code will not compile because of lines 2 and 5.
+
+Question 9
+1 / 1 pts
+Choose the correct statement about the following code:
+
+1. public interface Herbivore {
+
+2. int amount = 10;
+3. public static void eatGrass();
+
+4. public int chew() {
+5. return 13;
+
+6.}
+7.}
+
+Correct!
+  The code will not compile because of lines 3 and 4.
+  The code will not compile because of lines 2 and 3.
+  The code will not compile because of line 4.
+  It compiles and runs without issue.
+
+Question 10
+1 / 1 pts
+How can Encapsulation be achieved?
+  Using Abstraction
+Correct!
+  Using Access Specifiers
+  Using only private members
+  Using inheritance
+
+Question 11
+1 / 1 pts
+If data members are private, what can we do to access them from the class object?
+Correct!
+  Create public member functions to access those data members
+  Private data members can never be accessed from outside the class
+  Create private member functions to access those data members
+  Create protected member functions to access those data members
+
+Question 12
+1 / 1 pts
+Which among the following BEST describes encapsulation ?
+  It is a way of combining various member functions into a single unit
+  It is a way of combining various data members and member functions into a single unit which can operate on any data
+Correct!
+  It is a way of combining various data members and member functions that operate on those data members into a single unit
+It is a way of combining both data members and member functions, which operate on those data members, into a single unit. We call it a class in OOP generally. This feature has helped us modify the structures used in C language to be upgraded into class in C++ and other languages.
+  It is a way of combining various data members into a single unit
