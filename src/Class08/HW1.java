@@ -53,7 +53,7 @@ verify the textbox is disabled
         WebElement text = driver.findElement(By.xpath("//input[@type='text']"));
         text.click();
         text.sendKeys("Selenium");
-       WebElement disableBtn = driver.findElement(By.xpath("//button[@onclick='swapInput()']"));
+        WebElement disableBtn = driver.findElement(By.xpath("//button[@onclick='swapInput()']"));
         disableBtn.click();
         String Disable = disableBtn.getText();
         System.out.println("The text is "+Disable);

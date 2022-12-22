@@ -1,35 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ad6a085-8da2-4019-9578-a5f53cbd3e5b" name="Changes" comment="selenium">
-      <change afterPath="$PROJECT_DIR$/src/Class04/CssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class04/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class04/Note.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class04/RadioButtons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class05/CheckBoxDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class05/CheckBoxDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class05/MultipleSelectDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class06/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class06/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class07/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class07/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class07/HW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class07/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class07/WindowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08/Note.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08/WaitDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class08/WaitsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class9/DynamicTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class9/HW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quizes/Note.txtQuiz6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quizes/Quiz06AbstractionAndEncapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass02/PracticeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class04/AdditionalMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Syntax/class05/DropDownDemo.java" afterDir="false" />
+    <list default="true" id="4ad6a085-8da2-4019-9578-a5f53cbd3e5b" name="Changes" comment="seleniumWorks">
+      <change afterPath="$PROJECT_DIR$/src/Class01/LaunchingBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class01/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class01/maximizeWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class01/navigateMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class02/LocatingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class02/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class02/WebOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class03/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class03/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class03/XpathDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class05/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class06/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class06/frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07/Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07/implicitWaits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class07/windowHandlingAdvance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class08/tableBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class10/CalendarPagination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class10/Calender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class10/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11/Keys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class11/dragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class9/DynamicReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class9/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/loginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/loginPageWithPageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review04/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review04/WaitReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Review05/tables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/Test/loginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/replit/Interview/Repls216.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/replit/Interview/Repls217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/replit/Interview/Repls218.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/replit/Interview/Repls219.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/replit/Interview/Repls220.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/replit/Interview/Repls221.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/replit/Interview/Repls222.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/replit/Interview/Repls223.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/replit/Interview/Repls224.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/replit/Interview/Repls225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/replit/Interview/Repls226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/replit/Interview/Repls227.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Syntax/utlis/CommonMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumBatch14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumBatch14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class04/CssSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class04/CssSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class07/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class07/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class08/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class08/HW1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class08/Note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class08/Note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class9/HW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class9/HW.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,50 +85,25 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/maliha/Downloads/selenium-java-3.141.59/libs/okio-1.14.0.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maliha/Downloads/commons-io-2.6 (1).jar&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Interview" />
       <recent name="com.Syntax.class02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HW">
+  <component name="RunManager" selected="Application.HW3">
     <configuration name="Class08.HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class08.HW1" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Class08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class9.DynamicTable" />
-      <module name="SeleniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class9.HW" />
-      <module name="SeleniumBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +124,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class08.WaitsDemo" />
+    <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class07.HW2" />
       <module name="SeleniumBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class08.*" />
+          <option name="PATTERN" value="Class07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class07.HW3" />
+      <module name="SeleniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Repls219" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Syntax.replit.Interview.Repls219" />
+      <module name="SeleniumBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Syntax.replit.Interview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HW" />
-        <item itemvalue="Application.Class08.HW1" />
-        <item itemvalue="Application.DynamicTable" />
-        <item itemvalue="Application.WaitsDemo" />
+        <item itemvalue="Application.HW3" />
+        <item itemvalue="Application.HW2" />
         <item itemvalue="Application.HW1" />
+        <item itemvalue="Application.Class08.HW1" />
+        <item itemvalue="Application.Repls219" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667247433417</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="seleniumWorks">
+      <created>1668726498196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668726498197</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +212,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="selenium" />
-    <option name="LAST_COMMIT_MESSAGE" value="selenium" />
+    <MESSAGE value="seleniumWorks" />
+    <option name="LAST_COMMIT_MESSAGE" value="seleniumWorks" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumBatch14$Class10_HW1.ic" NAME="Class10.HW1 Coverage Results" MODIFIED="1669139139353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Class10.*</FILTER>
+    </SUITE>
   </component>
 </project>
